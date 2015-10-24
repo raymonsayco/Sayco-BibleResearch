@@ -1,0 +1,54 @@
+.header-navigation {
+  background-color: #FFFF00;
+  height: 80px;
+  width:100%;
+  position: fixed;
+  z-index: 999;
+  box-shadow: 0px 0px 0px 1px rgba(0,0,0,0.3);
+}
+
+#imageBible {
+  margin-left: 100px;
+}
+
+.nav, .nav-tabs {
+    margin-top: 90px;
+}
+
+.font1 {
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px #000;
+    font-weight: bold;
+}
+
+.bible-logo {
+    width: 70px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+
+td {
+    padding: 10px;
+}
+
+div.resultAll {
+    margin-top: 100px;
+    position: absolute;
+    right:0;
+   
+}
+
+.resultgenesisRead {
+  height: 500px;
+  overflow: scroll;
+}
+
+.imageBible2 {
+  height: 500px;
+  width:500px;
+}
+
+body {
+  font-family: comic sans ms;
+}
